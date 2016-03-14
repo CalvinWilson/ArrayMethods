@@ -1,0 +1,22 @@
+#wrapper {
+	width:1600px;
+	text-align: center;
+}
+
+img {
+	width:1500px;
+	height:125px;
+}
+
+body {
+	background: lightgray;
+}
+
+#Question {
+	width: 500px;
+	border: 2px solid black;
+	background: white;
+	margin-left: 545px;
+	margin-bottom: 15px;
+	padding: 5px;
+}
